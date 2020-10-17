@@ -1,0 +1,372 @@
+
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 320px) {
+	.owl-carousel .owl-item img {
+    			height: 425px;
+    			width: 95%;
+    			padding-left: 19px;
+}
+.fancybox-toolbar {
+    right: 45% !important;
+    margin-right: -5px;
+}
+.fancybox-button--arrow_left {
+
+    left: 29% !important;
+}
+.fancybox-button--arrow_right {
+
+    right: 29% !important;
+}
+/*2nd part*/
+.content {
+     margin-left: 0px; 
+}
+.home, .rang, .ethnic, .num, .quantity {
+    text-align: center;
+}
+.home{
+    font-size: 13px;
+}
+.rang {
+    font-size: 14px;
+    }
+    .ethnic {
+    font-size: 32px;
+}
+.num {
+    font-size: 15px;
+    }
+    .c_hr {
+    margin-right: 0px;
+    margin-top: 28px;
+}
+.quantity {
+    font-size: 14px;
+    margin-top: 24px;
+}
+.custom_f {
+    width: 27%;
+    padding: 20px 0px;
+}
+.custom_btn {
+   
+    padding: 3px 6px !important;
+}
+.form-inline{
+           margin-left: 93px;
+            margin-top: -10px;
+}
+.custom_block {
+    width: 100% !important;
+    margin-top: 15px;
+    }
+
+ul li {
+    font-size: 13px !important;
+}
+.li_text {
+    margin-left: 10px;
+}
+
+}
+
+/*custom media*/
+
+@media (min-width: 321px) and (max-width: 375.98px) {
+	.owl-carousel .owl-item img {
+   				 height: 465px;
+   				 padding: 0px 20px;
+}
+.fancybox-toolbar {
+    right: 45% !important;
+    margin-right: -3px;
+}
+.fancybox-button--arrow_left {
+
+    left: 31% !important;
+}
+.fancybox-button--arrow_right {
+
+    right: 31% !important;
+}
+/*2nd part*/
+.content {
+     margin-left: 0px; 
+}
+.home, .rang, .ethnic, .num, .quantity {
+    text-align: center;
+}
+.home{
+    font-size: 13px;
+}
+.rang {
+    font-size: 14px;
+    }
+    .ethnic {
+    font-size: 32px;
+}
+.num {
+    font-size: 15px;
+    }
+    .c_hr {
+    margin-right: 0px;
+    margin-top: 28px;
+}
+.quantity {
+    font-size: 14px;
+    margin-top: 24px;
+}
+.custom_f {
+    width: 27%;
+    padding: 20px 0px;
+}
+.custom_btn {
+   
+    padding: 3px 6px !important;
+}
+.form-inline{
+           margin-left: 116px;
+            margin-top: -10px;
+}
+.custom_block {
+    width: 100% !important;
+    margin-top: 15px;
+    }
+
+ul li {
+    font-size: 13px !important;
+}
+
+
+
+}
+
+/*custom media*/
+
+@media (min-width: 376px) and (max-width: 575.98px) {
+
+.owl-carousel .owl-item img {
+    
+    height: 525px;
+    padding: 0px 20px;
+}
+.fancybox-toolbar {
+    right: 46% !important;
+    margin-right: -3px;
+}
+.fancybox-button--arrow_left {
+    left: 33% !important;
+}
+.fancybox-button--arrow_right {
+    right: 34% !important;
+}
+/*2nd part*/
+.home, .rang, .ethnic, .num, .quantity {
+    text-align: center;
+}
+.c_hr {
+    margin-right: 4px;
+    margin-left: 7px;
+}
+.custom_f {
+    width: 19%;
+    padding: 19px 0px;
+}
+.custom_btn {
+   
+    padding: 2px 6px !important;
+}
+.form-inline{
+        margin-left: 148px;
+}
+.custom_block {
+    width: 98% !important;
+    margin-left: 4px;
+}
+ul li {
+    font-size: 14px !important;
+}
+
+
+}
+
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .home, .rang, .ethnic, .num, .quantity {
+    text-align: center;
+}
+.form-inline{
+        margin-left: 312px;
+}
+.c_hr {
+    margin-right: 15px;
+    }
+.custom_block {
+    width: 98% !important;
+    }
+
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	.fancybox-toolbar {
+    		right: 48% !important;
+    		    margin-right: -6px;
+		}
+	.fancybox-button--arrow_left {
+    		left: 39% !important;
+    		    margin-left: 14px;
+		}
+		.fancybox-button--arrow_right {
+    		right: 41% !important;
+    	}
+        /*2nd part*/
+        .content {
+             margin-left: 0px; 
+}
+.home, .rang, .ethnic, .num, .quantity {
+    text-align: center;
+}
+.c_hr{
+    margin-right: 20px;
+    margin-left: 8px;
+}
+.form-inline{
+        margin-left: 312px;
+}
+.custom_block {
+    width: 96% !important;
+    margin-left: 8px;
+}
+
+}
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .custom_col0 {
+        margin-top: 50px;
+}
+	.slick-list{
+		    height: 406px !important;
+   			padding: 0px 0px !important;
+	}
+	.box img{
+		width: 80%;
+	}
+	.image{
+		margin-left: -24px;
+            margin-top: 50px;
+   		 height: 405px;
+	}
+	.fancybox-toolbar {
+    		right: 48% !important;
+    		margin-right: -2px;
+		}
+	.fancybox-button--arrow_left {
+    		left: 43% !important;
+		}
+	.fancybox-button--arrow_right {
+   			 right: 43% !important;
+		}
+        /*2nd part*/
+        .c_col {
+             margin-left: 464px;
+             margin-top: -462px;
+}
+.content {
+     margin-left: 0px; 
+}
+.c_hr {
+    margin-right: -15px;
+    }
+    .custom_block {
+    width: 103% !important;
+}
+}
+/*custom media*/
+@media (min-width: 1200px)and (max-width: 1439.98px) {
+    .container-fluid{
+        width: 90%;
+    }
+    .custom_col0 {
+             padding-left: 77px;
+}
+    .box img {
+    width: 75%;
+}
+
+/*2nd part*/
+    .content {
+     margin-left: 0px; 
+}
+        .c_col {
+                 margin-left: 739px;
+                margin-top: -672px;
+}
+
+}
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1440px)and (max-width: 2000.98px) {
+	.slick-list{
+		    height: 668px !important;
+   			padding: 0px 0px !important;
+	}
+	.box img{
+		width: 55%;
+	}
+	.image{
+		margin-left: -84px;
+	}
+	.image img{
+		width: 90%;
+	}
+.fancybox-toolbar {
+
+    margin-right: -8px;
+}
+
+.fancybox-button--arrow_left {
+    left: 45% !important;
+}
+.fancybox-button--arrow_right {
+    right: 45% !important;
+}
+
+}
+
+/*custom media*/
+
+@media (min-width: 2100px)and (max-width: 2560px) {
+
+	.container-fluid{
+		width: 80%;
+	}
+
+.slick-list{
+	    height: 667px !important;
+    	padding: 0px 0px !important;
+}
+	.box img {
+    	    width: 60%;
+    		height: 230px;
+}
+.image {
+    margin-left: -105px;
+}
+.fancybox-toolbar {
+	right: 49% !important;
+    /*margin-right: -8px;*/
+        margin-right: 4px !important;
+}
+
+.fancybox-button--arrow_left {
+    left: 47% !important;
+}
+.fancybox-button--arrow_right {
+    right: 47% !important;
+}
+
+	}
